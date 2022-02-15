@@ -1,19 +1,3 @@
-# Planning algorithm
-
-主要包括建图、前端路径搜索、后端轨迹优化
-
-## mapping
-
-介绍机器人建图算法
-
-## path searching
-
-介绍机器人路径搜索算法
-
-## trajectory planning
-
-介绍机器人轨迹生成算法
-
 ## A*
 介绍A*算法的优缺点，及启发式函数对搜索效率和最优性的影响
 
