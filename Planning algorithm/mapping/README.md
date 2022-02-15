@@ -1,8 +1,9 @@
 # 机器人建图算法
 
-https://blog.csdn.net/qq_41035283/article/details/120641004
+[基础的地图结构和建图类型](https://blog.csdn.net/qq_41035283/article/details/120641004)
 
-https://blog.csdn.net/qq_41035283/article/details/120650704
+[从栅格占据地图到ESDF地图](https://blog.csdn.net/qq_41035283/article/details/120650704)
+
 
 以下主要介绍3D地图
 
