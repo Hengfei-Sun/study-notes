@@ -1,8 +1,11 @@
 ## A*
-介绍[A*算法](https://zhuanlan.zhihu.com/p/61633289)的优缺点，及启发式函数对搜索效率和最优性的影响
+
+[Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+
+[路径规划之 A* 算法](https://paul.pub/a-star-algorithm/#id-d)
 
 
 
 ## 人工势场法（Artificial Potential Field，APF）
 
-介绍[人工势场法](https://zhuanlan.zhihu.com/p/144816424)，及易出现的局部最优解陷阱
+[人工势场法](https://medium.com/@rymshasiddiqui/path-planning-using-potential-field-algorithm-a30ad12bdb08)
