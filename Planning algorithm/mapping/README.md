@@ -8,6 +8,8 @@ https://blog.csdn.net/qq_41035283/article/details/120650704
 
 ## Occupancy grid map
 
+![here is an example](https://github.com/Hengfei-Sun/study-notes/blob/main/img/grid_map_rviz_plugin_example.png)
+
 ETH的通用网格地图库
 https://github.com/ANYbotics/grid_map
 https://github.com/ANYbotics/elevation_mapping
