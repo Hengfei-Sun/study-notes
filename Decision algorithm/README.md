@@ -1,3 +1,9 @@
-# Reinforcement learning
+# Decision algorithm
 
-强化学习经典书籍：[Reinforcement Learning: An Introduction](https://inst.eecs.berkeley.edu/~cs188/sp20/assets/files/SuttonBartoIPRLBook2ndEd.pdf)
+## Finite State Machine
+
+[Game Programming Patterns/Design Patterns Revisited](http://gameprogrammingpatterns.com/state.html)
+
+## Reinforcement learning
+
+Book：[Reinforcement Learning: An Introduction](https://inst.eecs.berkeley.edu/~cs188/sp20/assets/files/SuttonBartoIPRLBook2ndEd.pdf)
