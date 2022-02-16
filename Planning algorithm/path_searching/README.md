@@ -4,6 +4,7 @@
 
 [路径规划之 A* 算法](https://paul.pub/a-star-algorithm/#id-d)
 
+[Heuristics](http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html)
 
 
 ## 人工势场法（Artificial Potential Field，APF）

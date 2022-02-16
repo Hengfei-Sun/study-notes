@@ -11,4 +11,4 @@
 
 [Map representations](http://theory.stanford.edu/~amitp/GameProgramming/MapRepresentations.html)
 
-优缺点对比：[栅格法，拓扑法，自由空间法和可视法的优缺点对比](https://www.cnblogs.com/DissertationSubmitted/p/14975782.html)。
+优缺点对比：[Grid maps;Polygonal maps;Navigation Meshes;Hierarchical maps](http://theory.stanford.edu/~amitp/GameProgramming/MapRepresentations.html#graph-format-recommendations)。
