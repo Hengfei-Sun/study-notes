@@ -13,3 +13,9 @@
 ## trajectory planning
 
 介绍机器人轨迹生成算法
+
+## Fast planner code notes
+
+从源码解析Fast-Planner整个规划的pipeline
+
+[fast-planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner)
